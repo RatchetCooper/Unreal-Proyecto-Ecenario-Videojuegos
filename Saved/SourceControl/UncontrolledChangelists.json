@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/Menus/W_MenuPausa.uasset",
+				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/Tipografias/who_asks_satan.uasset",
+				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/Tipografias/who_asks_satan_Font.uasset",
+				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/Menus/LV_MenuPrincipal.umap",
+				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/Menus/W_MenuPrincipal.uasset",
+				"C:/Users/edgar/Documents/Unreal Projects/SombrasSobreLondres/Content/Menus/Foto_IA__17_.uasset"
 			]
 		}
 	]
